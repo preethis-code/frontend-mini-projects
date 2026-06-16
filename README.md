@@ -8,7 +8,7 @@ This repository contains my frontend development learning journey.
 * `css/` → CSS styling (coming soon)
 * `projects/` → Combined mini projects
 
-## 🚀 What I'm Learning
+## What I'm Learning
 
 * HTML basics (tags, links, images)
 * Forms and tables
